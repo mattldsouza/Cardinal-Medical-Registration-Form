@@ -4,7 +4,7 @@ Name: Matt Dsouza
 Data created: Febuary 4, 2025
 Data last edited: April 6, 2025
 Version: 1.0
-Description: Homework 3 Patient Form
+Description: Patient Form
 */
 // Dynamic Date
 document.getElementById("today").innerHTML = new Date().toLocaleDateString();
